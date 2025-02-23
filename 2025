@@ -1,0 +1,323 @@
+#EXTM3U
+#EXTINF:-1 group-title="AmrBD",AMR_& Flix HD
+http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_& Prive HD
+http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_ASIAN TV HD [BD]
+http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_ATN BANGLA [BD]
+http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_ATN NEWS TV [BD]
+http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_BANGLA TV HD [BD]
+http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_BIJOY TV [BD]
+http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_BOISHAKHI TV [BD]
+http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_CHANNEL 9 HD [BD]
+http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_CHANNEL I HD [BD]
+http://103.214.202.218:8081/live/channeli/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_DBC NEWS HD [BD]
+http://103.214.202.218:8081/live/dbc/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_DEEPTO TV HD [BD]
+http://103.214.202.218:8081/live/deepto/playlist.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_EKATTOR TV HD [BD]
+http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_EKUSHEY TV [BD]
+http://103.214.202.218:8081/live/ekushey/playlist.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_GAAN BANGLA HD [BD]
+http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_GAZI TV HD [BD]
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_INDEPENDENT TV [BD]
+http://103.214.202.218:8081/live/independent/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_JAMUNA TV [BD]
+http://103.214.202.218:8081/live/jamuna/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_MNX
+http://103.214.202.218:8081/live/mnx/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_MOHONA TV [BD]
+http://103.214.202.218:8081/live/mohona/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Movies Now
+http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Music Mastii
+http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_MY TV [BD]
+http://103.214.202.218:8081/live/mytv/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_NEWS 24 HD [BD]
+http://103.214.202.218:8081/live/news24-24/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_NTV [BD]
+http://103.214.202.218:8081/live/ntv/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_ROMEDY NOW
+http://103.214.202.218:8081/live/romedynow/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_RTV HD [BD]
+http://103.214.202.218:8081/live/rtv/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_SA TV HD [BD]
+http://103.214.202.218:8081/live/satv-22/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_SOMOY TV [BD]
+http://103.214.202.218:8081/live/somoy/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_SONY HD
+http://103.214.202.218:8081/live/sony-40/playlist.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_SONY SET MAX HD
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Sony Ten 1 HD
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Sony Ten 2 HD
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Sony Ten 3 HD
+http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Star Sports Select 2 HD
+http://103.214.202.218:8081/live/select2/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Zee Cafe HD
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Zee Cinema HD
+http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+#EXTINF:-1 group-title="AmrBD",AMR_Zoom
+http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
+#EXTINF:-1 group-title="Ebox",Animal Planet
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1 group-title="Ebox",ATN Bangla
+http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+#EXTINF:-1 group-title="Ebox",ATN News
+http://tv2.ebox.live:8080/live/ex-atnae.m3u8
+#EXTINF:-1 group-title="Ebox",Baishakhi
+http://tv2.ebox.live:8080/live/boishakhi.m3u8
+#EXTINF:-1 group-title="Ebox",Bangla Vision HD
+http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1 group-title="Ebox",Bein Sports 1 HD
+http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF:-1 group-title="Ebox",Bein Sports 11 HD
+http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
+#EXTINF:-1 group-title="Ebox",Bein Sports 2 HD
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
+#EXTINF:-1 group-title="Ebox",Bein Sports Fr 1 HD
+http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
+#EXTINF:-1 group-title="Ebox",Channel 24
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+#EXTINF:-1 group-title="Ebox",Channel 9 HD
+http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 group-title="Ebox",Channel i HD
+http://tv2.ebox.live:8080/live/chi.m3u8
+#EXTINF:-1 group-title="Ebox",Colour Bangla
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 group-title="Ebox",Colour Infinity 4K
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:-1 group-title="Ebox",Colours
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 group-title="Ebox",DBC HD
+http://tv2.ebox.live:8080/live/dbc.m3u8
+#EXTINF:-1 group-title="Ebox",Discovery HD
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:-1 group-title="Ebox",Ekattor TV HD
+http://tv2.ebox.live:8080/live/ekattor1.m3u8
+#EXTINF:-1 group-title="Ebox",Gaan Bangla HD
+http://tv2.ebox.live:8080/live/gan.m3u8
+#EXTINF:-1 group-title="Ebox",Gazi TV HD
+http://tv2.ebox.live:8080/live/gazi-tv.m3u8
+#EXTINF:-1 group-title="Ebox",HBO HD
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 group-title="Ebox",Jamuna TV
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+#EXTINF:-1 group-title="Ebox",Maasranga HD
+http://tv2.ebox.live:8080/live/maasranga.m3u8
+#EXTINF:-1 group-title="Ebox",Maasranga OP2
+http://tv2.ebox.live:8080/live/mass.m3u8
+#EXTINF:-1 group-title="Ebox",National Geo
+http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 group-title="Ebox",News 24 HD
+http://tv2.ebox.live:8080/live/news24.m3u8
+#EXTINF:-1 group-title="Ebox",Nick
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 group-title="Ebox",PTV Sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 group-title="Ebox",R tv HD
+http://tv2.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1 group-title="Ebox",Sky Cricket HD
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 group-title="Ebox",Sky Mix HD
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1 group-title="Ebox",Sony ESPN HD
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
+#EXTINF:-1 group-title="Ebox",Sony HD
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Max 2
+http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Max HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 group-title="Ebox",Sony PIX
+http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 group-title="Ebox",Sony SIX HD
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Ten 1 HD
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Ten 2 HD
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 group-title="Ebox",Sony Ten 3 HD
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 group-title="Ebox",Star Gold HD
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 group-title="Ebox",Star Gold Select HD
+http://tv2.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:-1 group-title="Ebox",Star Jalsha HD
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 group-title="Ebox",Star Jalsha Movies HD
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 group-title="Ebox",Star Movies
+http://tv2.ebox.live:8080/live/star-movies.m3u8
+#EXTINF:-1 group-title="Ebox",Star Plus HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 group-title="Ebox",Star Sports 1 HD
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 group-title="Ebox",Star Sports 1 HD Hin
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:-1 group-title="Ebox",Star Sports 2 HD
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 group-title="Ebox",Star Sports 3
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 group-title="Ebox",Star Sports HD 2
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 group-title="Ebox",Star Sports Select 1 HD
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 group-title="Ebox",Star Sports Select 2 HD
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 group-title="Ebox",Ten Sports
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1 group-title="Ebox",Willow Cricket HD
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 group-title="Ebox",Zee Bangla
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 group-title="Ebox",Zee Bangla Cinema
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1 group-title="Ebox",Zee Cinema HD
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 group-title="Ebox",Zee TV
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Al-Jazeera
+http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Channel 24
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Channel 9
+http://103.102.136.106:8080/cmcltv/channel9.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Channel 9
+http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Channel i
+http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Channel Nine
+http://103.70.140.27:8080/hls/channel9_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",DBC News
+http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Duronto TV
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Ekattor TV
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Gaanbangla TV
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Gazi TV
+http://106.0.54.6:8080/hls/gtv_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Gazi TV
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Independent TV
+http://103.102.136.106:8080/cmcltv/independent.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Jamuna Tv
+http://106.0.54.6:8080/hls/jamuna_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Jamuna TV
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Jamuna Tv
+http://103.70.140.27:8080/hls/jamuna_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Jamuna TV
+http://103.102.136.106:8080/cmcltv/jamuna.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Live Sports-01
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Live Sports-02
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Maasranga TV
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",News 24
+http://103.102.136.106:8080/cmcltv/news24.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Somoy TV
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony
+http://103.70.140.27:8080/hls/tcm_sonyhd_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony
+http://106.0.54.6:8080/hls/tcm_sonyhd_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony Max
+http://106.0.54.6:8080/hls/tcm_sonymax_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony Max
+http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony Ten 1
+http://103.70.140.27:8080/hls/tcm_ten1_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony Ten 1
+http://106.0.54.6:8080/hls/tcm_ten1_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony Ten 2
+http://106.0.54.6:8080/hls/tcm_ten2_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Sony Ten 2
+http://103.70.140.27:8080/hls/tcm_ten2_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Star Jalsha
+http://tvuk3.technohaat.com:6636/StarJalsha/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 group-title="ROBI IPTV",Star Jalsha HD
+http://103.70.140.27:8080/hls/tcm_starjalsha_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Star Jalsha HD
+http://106.0.54.6:8080/hls/tcm_starjalsha_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Zee Bangla
+http://106.0.54.6:8080/hls/tcm_zeebangla_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Zee Bangla
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+#EXTINF:-1 group-title="ROBI IPTV",Zee Bangla
+http://103.70.140.27:8080/hls/tcm_zeebangla_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Zee Cinema
+http://106.0.54.6:8080/hls/tcm_zeecinema_cm_ip.m3u8
+#EXTINF:-1 group-title="ROBI IPTV",Zee Cinema
+http://103.70.140.27:8080/hls/tcm_zeecinema_cm_ip.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU" group-title="CMCL",Al Jazeera
+http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg" group-title="CMCL",And Pictures
+http://103.102.136.106:8080/cmcltv/tcm_&pictures.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="CMCL",BBC News
+http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="CMCL",CHANNEL 24 [BD]
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="CMCL",CHANNEL 9 HD [BD]
+http://106.0.54.6:8080/hls/channel9_cm_ip.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="CMCL",CHANNEL 9 HD [BD]
+http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="CMCL",CHANNEL I HD [BD]
+http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU" group-title="CMCL",CNN News
+http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="CMCL",COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="CMCL",Colors Bangla SD
+http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="CMCL",DBC NEWS HD [BD]
+http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="CMCL",DURONTO TV [BD]
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="CMCL",EKATTOR TV HD [BD]
+http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png" group-title="CMCL",Gaan Bangla [BD]
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="CMCL",Gazi TV HD [BD]
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="CMCL",JAMUNA TV [BD]
+http://103.102.136.106:8080/cmcltv/jamuna_th.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL",Live Sports
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL",Live Sports 2
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL",Live Sports 3
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU" group-title="CMCL",Live Sports 4
+http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg" group-title="CMCL",Maasraga TV HD [BD]
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="CMCL",NEWS 24 HD [BD]
+http://103.102.136.106:8080/cmcltv/news24-th.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="CMCL",SOMOY TV [BD]
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="CMCL",SONY
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="CMCL",Sony Aath [IN] (1)
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg" group-title="CMCL",SONY Max
+http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
